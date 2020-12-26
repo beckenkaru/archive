@@ -1,0 +1,19 @@
+# site
+title: Itchyeggie
+baseurl: ""
+url: ""
+favicon: "/assets/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: ÄGGIE'S
+desc: >
+  Upcoming and Commissioned work, her sketch archive, prints, and animations.
+  Also, about her.
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
