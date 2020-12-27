@@ -2,9 +2,9 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
-$font__size:        14px;
+@import url('https://fonts.googleapis.com/css2?family=Harmattan&display=swap');
+$harmattan: 'Harmattan', sans-serif;
+$font__size: 18px;
 $font__weight:      400;
 $font__line-height: 1.5;
 
@@ -61,7 +61,7 @@ body {
   margin: 25px 0;
   padding: 0;
   // background: $color__beige;
-  font-family: $inconsolata;
+  font-family: $harmattan;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
