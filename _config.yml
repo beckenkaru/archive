@@ -8,8 +8,8 @@ g_analytics: UA-12345678-1
 # bio
 header: ÄGGIE'S
 desc: >
-  Upcoming and Commissioned work, her sketch archive, prints, and animations.
-  Also, about her.
+  Upcoming and Commissioned work, sketch archive, prints, and animations. \\
+  About her.
 
 # build settings
 markdown: kramdown
