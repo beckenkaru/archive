@@ -8,7 +8,7 @@ g_analytics: UA-12345678-1
 # bio
 header: ÄGGIE'S
 desc: >
-  Upcoming and Commissioned work, sketch archive, prints, animations. \\ <a href=" https://beckenkaru.github.io/2020/12/16/about">About</a>.
+  <a href=" https://beckenkaru.github.io/2020/12/15/upcoming">Upcoming</a> and <a href=" https://beckenkaru.github.io/2020/12/12/others">Commissioned work</a>, sketch <a href=" https://beckenkaru.github.io/2020/12/16/about">archive</a>, <a href=" https://beckenkaru.github.io/2020/12/13/print">prints</a>, <a href=" https://beckenkaru.github.io/2020/12/14/animation">animations</a>. \\ <a href=" https://beckenkaru.github.io/2020/12/16/about">About</a>.
 
 # build settings
 markdown: kramdown
