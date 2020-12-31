@@ -2,18 +2,17 @@
   max-width: 500px;
   margin-bottom: 50px;
   word-spacing: 10px;
-}
-
-.bio__header {
-  margin-bottom: 20px;
-  font-weight: 700;
-  word-spacing: normal;
-  
-  a {
+    a {
     color: $color__black;
     text-decoration: none;
     &:hover {
       background-color: $color__green;
     }
-  }    
+  }  
+}
+
+.bio__header {
+  margin-bottom: 20px;
+  font-weight: 700;
+  word-spacing: normal;  
 }
