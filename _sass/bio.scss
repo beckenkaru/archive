@@ -1,12 +1,14 @@
 .bio {
   max-width: 500px;
   margin-bottom: 50px;
-  word-spacing: 20px;
+  word-spacing: 10px;
 }
 
 .bio__header {
   margin-bottom: 20px;
   font-weight: 700;
+  word-spacing: normal;
+
 
   a {
   	text-decoration: none;
