@@ -8,13 +8,12 @@
   margin-bottom: 20px;
   font-weight: 700;
   word-spacing: normal;
-
-
+  
   a {
-  	text-decoration: none;
-
-  	&:hover {
-  		text-decoration: none;
-  	}
-  }
+    color: $color__black;
+    text-decoration: none;
+    &:hover {
+      background-color: $color__green;
+    }
+  }    
 }
