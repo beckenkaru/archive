@@ -35,9 +35,9 @@ $color__gray: #eeeeee;
 
 a {
   color: $color__black;
-  text-decoration: none;
+  text-decoration: underline;
   &:hover {
-    background-color: $color__green;
+    color: $color__black;
   }
 }
 
